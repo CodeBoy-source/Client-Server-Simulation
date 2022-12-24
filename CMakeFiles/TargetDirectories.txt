@@ -1,0 +1,4 @@
+/home/briansenas/Desktop/University/SS/P3/cliente_servidor/CMakeFiles/cliente_servidor.dir
+/home/briansenas/Desktop/University/SS/P3/cliente_servidor/CMakeFiles/cliente_servidor_variable.dir
+/home/briansenas/Desktop/University/SS/P3/cliente_servidor/CMakeFiles/edit_cache.dir
+/home/briansenas/Desktop/University/SS/P3/cliente_servidor/CMakeFiles/rebuild_cache.dir
